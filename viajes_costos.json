@@ -1,1 +1,62 @@
-
+[
+  {
+    "Placa": "GDX825",
+    "FechaHoraSalida": "2025-05-08T15:00:00.000Z",
+    "Origen": "La Estrella",
+    "Destino": "Barranquilla",
+    "Estado": "Lleno",
+    "Km": 800,
+    "Ingreso $": 4100000,
+    "CostoPresu $": 3411475.2,
+    "Margen $": 688524.7999999998,
+    "CPK aplicado": 4264
+  },
+  {
+    "Placa": "NLX195",
+    "FechaHoraSalida": "2025-05-09T15:00:00.000Z",
+    "Origen": "La Estrella",
+    "Destino": "Yumbo",
+    "Estado": "Vac?o",
+    "Km": 500,
+    "Ingreso $": 0,
+    "CostoPresu $": 1887019.4999999998,
+    "Margen $": -1887019.4999999998,
+    "CPK aplicado": 3774
+  },
+  {
+    "Placa": "NLX200",
+    "FechaHoraSalida": "2025-05-09T18:00:00.000Z",
+    "Origen": "La Estrella",
+    "Destino": "Yumbo",
+    "Estado": "Vac?o",
+    "Km": 600,
+    "Ingreso $": 0,
+    "CostoPresu $": 2264423.4,
+    "Margen $": -2264423.4,
+    "CPK aplicado": 3774
+  },
+  {
+    "Placa": "GDX825",
+    "FechaHoraSalida": "2025-05-07T15:00:00.000Z",
+    "Origen": "La Estrella",
+    "Destino": "Barranquilla",
+    "Estado": "Lleno",
+    "Km": 800,
+    "Ingreso $": 4100000,
+    "CostoPresu $": 3411475.2,
+    "Margen $": 688524.7999999998,
+    "CPK aplicado": 4264
+  },
+  {
+    "Placa": "SNU375",
+    "FechaHoraSalida": "2025-05-13T15:00:00.000Z",
+    "Origen": "La Estrella",
+    "Destino": "Barranquilla",
+    "Estado": "Vac?o",
+    "Km": 750,
+    "Ingreso $": 0,
+    "CostoPresu $": 2292243.0000000005,
+    "Margen $": -2292243.0000000005,
+    "CPK aplicado": 3056
+  }
+]
