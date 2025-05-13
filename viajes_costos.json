@@ -58,5 +58,17 @@
     "CostoPresu $": 2292243.0000000005,
     "Margen $": -2292243.0000000005,
     "CPK aplicado": 3056
+  },
+  {
+    "Placa": "TRL753",
+    "FechaHoraSalida": "2025-05-13T16:00:00.000Z",
+    "Origen": "La Estrella",
+    "Destino": "Yumbo",
+    "Estado": "Lleno",
+    "Km": 450,
+    "Ingreso $": 3700000,
+    "CostoPresu $": 2259414.9000000004,
+    "Margen $": 1440585.0999999996,
+    "CPK aplicado": 5021
   }
 ]
